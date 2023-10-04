@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Poppins&display=swap');
+</style>
 
 // make a gif of you writing your LK logo...
 const root = ReactDOM.createRoot(document.getElementById('root'));
